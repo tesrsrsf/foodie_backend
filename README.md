@@ -1,4 +1,4 @@
-# Recipe Recommendation API
+# Foodie
 
 This project is a Flask-based backend API that integrates with Firebase and Spoonacular API to provide recipe recommendations, manage user ingredients, and handle food-related functionality. The application can analyze fridge images, suggest recipes, and store user preferences in a database.
 
