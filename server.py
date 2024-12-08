@@ -6,7 +6,7 @@ import requests
 
 app = Flask(__name__)
 
-server_url = 'https://adapting-kite-regularly.ngrok-free.app'
+server_url = 'test'
 
 # Firestore
 import firebase_admin
