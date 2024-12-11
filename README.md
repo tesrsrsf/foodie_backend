@@ -97,7 +97,7 @@ This project is a Flask-based backend API that integrates with Firebase and Spoo
          "title": "Tomato Soup",
          "cuisine_type": "Italian",
          "steps": ["1. Chop tomatoes", "2. Boil in water"],
-         "cooking_time": "30 minutes"
+         "cooking_time": 30
        }
      ]
      ```
