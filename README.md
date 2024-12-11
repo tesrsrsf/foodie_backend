@@ -163,8 +163,3 @@ This project is a Flask-based backend API that integrates with Firebase and Spoo
 - `server.py`: The main Flask application with route definitions.
 - `uploads/`: Directory to store uploaded images.
 
----
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
